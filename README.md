@@ -1,5 +1,4 @@
 # A Dynamic State Cluster-Based Particle Swarm Optimization Algorithm(DSCPSO)
-This article has been published in the International Journal of Computational Intelligence Systems. 
 The original manuscript can be viewed via https://doi.org/10.1007/s44196-025-00902-8.
 The citation format is as follows:
 ```
