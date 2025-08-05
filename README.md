@@ -1,6 +1,6 @@
 # A Dynamic State Cluster-Based Particle Swarm Optimization Algorithm(DSCPSO)
-The original manuscript can be viewed via https://doi.org/10.1007/s44196-025-00902-8.
-The citation format is as follows:
+-The original manuscript can be viewed via https://doi.org/10.1007/s44196-025-00902-8.
+-The citation format is as follows:
 ```
 @article{DSCPSO,
    author = {Diao, Zhenya and Yu, Fei and Wu, Hongrun and Xia, Xuewen},
